@@ -15,26 +15,30 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
-'Twas brillig, and the slithy toves  
-Did gyre and gimble in the wabe:  
-All mimsy were the borogoves,  
-And the mome raths outgrabe.  
-
-'Beware the Jabberwock, my son!  
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+My long two-pointed ladder's sticking through a tree   
+Toward heaven still,   
+And there's a barrel that I didn't fill   
+Beside it, and there may be two or three  
+Apples I didn't pick upon some bough. 
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
+"The sun was shining on the sea,  
+      Shining with all his might:  
+He did his very best to make  
+      The billows smooth and bright —  
+And this was odd, because it was  
+      The middle of the night.  
 
+The moon was shining sulkily,  
+      Because she thought the sun  
+Had got no business to be there  
+      After the day was done —  
+"It's very rude of him," she said, 
+      "To come and spoil the fun."  
+      
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
-The intelligence of the head is not intelligence at all;  
-it is knowledgeability. The intelligence of the heart is the intelligence, the only intelligence there is.  
-The head is simply an accumulator.  
-It is always old, it is never new, it is never original. 
-It is good for certain purposes:  
-For filing it is perfectly good!  
-And in life one needs this– many things have to be remembered.  
-The mind, the head, is a biocomputer. 
